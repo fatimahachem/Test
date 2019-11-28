@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fatima Hachem",
+    "description": "",
+    "home_page_url": "https://fatimahachem.github.io",
+    "feed_url": "https://fatimahachem.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Fatima Hachem"
+    },
+    "items": [
+    ]
+}
